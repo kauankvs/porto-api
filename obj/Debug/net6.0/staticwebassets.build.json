@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "dr2VygrkH45fMhfbJJLIelCSZZon8qcs6nK5bAqLTRk=",
+  "Source": "PortoAPI",
+  "BasePath": "_content/PortoAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
